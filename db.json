@@ -1,16 +1,44 @@
 {
-  "posts":[
+  "favorites": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "artist": "Candlemass",
+      "track": "Demons Gate",
+      "album": "Epicus Doomicus Metallicus (2007 bonus edition)",
+      "art": "https://lastfm.freetls.fastly.net/i/u/300x300/4fdea495f59940f7c0095557d948bc73.png",
+      "lyrics": "Beyond all nightmares I met my fate\nAn ancient passage surrounded by hate\nScared I was with my hand on my cross\nI went into the demons gate\n\nAcross the Styx among the mists of Hades\nA gate of stones marks the path\nTo soul's damnation and hell's wrath\n\nAncient evil is awaiting there\nAt the doorstep to hell\nWithin it's darkness the demons dwell\n\nFrom the dark age the passage hail\nCreated by witchcraft and hate\nWhere every sinner will meet his fate\n\nThe place is cursed by the hands of doom\nUnholy powers in reign\nThe devil's paradise of pain\n\nApproach!\nThe Eibon opens for you\nThe choirs of damnation, call you on through\nThe twilight possesses, the heart of your soul\nThe starlight is fading to black, into the\nDemons gate",
+      "id": 8
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "artist": "Kanye West",
+      "track": "We Don't Care",
+      "album": "Live in Amsterdam: Semester Over Seas ’05",
+      "art": "https://lastfm.freetls.fastly.net/i/u/300x300/bed36d0429dd4444c4c1c0ea27263e64.png",
+      "lyrics": "Oh yeah, I've got the perfect song for the kids to sing\nAnd all my people that's\n\nDrug dealin' just to get by\nStack ya' money till it get sky high\nWe wasn't s'posed to make it past twenty-five\nJoke's on you, we still alive\nThrow your hands up in the sky and say\n\"We don't care what people say\"\n\nIf this is your first time hearin' this\nYou are about to experience somethin' so cold, man\nWe never had nothin' handed, took nothin' for granted\nTook nothin' from no man, man, I'm my own man\nBut as a shorty I looked up to the dopeman\nOnly adult man I knew that wasn't broke, man\nFlickin' Starter coats, man\nMan, you don't know, man\nWe don't care what people say\nThis is for my niggas outside all winter\n'Cause this summer they ain't finna say, \"Next summer I'm finna\"\nSittin' in the hood like community colleges\nThis dope money here is little Trey's scholarship\n'Cause ain't no tuition for having no ambition\nAnd ain't no loans for sittin' your ass at home\nSo we forced to sell crack, rap, and get a job\nYou gotta do somethin' man, your ass is grown\n\nDrug dealin' just to get by\nStack ya' money till it get sky high\nKids, sing, kids, sing\nWe wasn't s'posed to make it past twenty-five\nJoke's on you, we still alive\nThrow your hands up in the sky and say\n\"We don't care what people say\"\n\nThe second verse is for my dogs workin' nine to five that still hustle\n'Cause a nigga can't shine off $6.55\nAnd everybody sellin' makeup, Jacob's and bootlegged tapes just to get they cake up\nWe put shit on layaway, then come back\nWe claim other people kids on our income tax\nWe take that money, cop work, then push packs to get paid\nAnd we don't care what people say\nMama say she wanna move south\nScratchin' lottery tickets, eyes on a new house\n'Round the same time, Doe ran up in dude house\nCouldn't get a job, so since he couldn't get work, he figured he'd take work\nThe drug game bulimic, it's hard to get weight\nA nigga's money is homo, it's hard to get straight\nBut we gon' keep bakin' till the day we get cake\nAnd we don't care what people say, my niggas\n\nDrug dealin' just to get by\nStack ya' money till it get sky high\nKids, sing, kids, sing\nWe wasn't s'posed to make it past twenty-five\nJoke's on you, we still alive\nThrow your hands up in the sky and say\n\"We don't care what people say\"\n\nYou know the kids gon' act a fool\nWhen you stop the programs for after-school\nAnd they DCFS, some of 'em dyslexic\nThey favorite 50 Cent song \"12 Questions\"\nWe scream, \"Rocks, blow, weed, park,\" see, now we smart\nWe ain't retards, the way teachers thought\nHold up, hold fast, we make more cash\nNow tell my mama I belong in that slow class\nSad enough we on welfare\nThey tryna put me on the school bus with the space for the wheelchair\nI'm tryna get the car with the chromie wheels here\nThey tryna cut our lights out like we don't live here\nLook what was handed us, fathers abandoned us\nWhen we get them hammers, go on, call the ambulance\nSometimes I feel no one in this world understands us\nBut we don't care what people say, my niggas\n\nDrug dealin' just to get by\nStack ya' money till it get sky high\nKids, sing, kids, sing\nWe wasn't s'posed to make it past twenty-five\nJoke's on you, we still alive\nThrow your hands up in the sky and say\n\"We don't care what people say\"",
+      "id": 9
+    },
+    {
+      "artist": "KIDS SEE GHOSTS, Kanye West & Kid Cudi",
+      "track": "Cudi Montage",
+      "album": "KIDS SEE GHOSTS",
+      "art": "https://lastfm.freetls.fastly.net/i/u/300x300/f5b2afc55e22e15078281d145a2fefd6.png",
+      "lyrics": "Find my back in the cold\nTrapped in another soul, they can hear me holler\nI'm colder than the game\nSee 'em all strapped in an' can't move and I'm sinkin' lower\nHeaven gonna help me\n'Cause I feel the world weighin' on me heavy, tryna keep it steady\nReady for the mission\nGod, shine your love on me, save me, please\nIf I'm goin' alone, I've been gone for so long\nAin't nobody, you can't hear a word\nPerched in the night, lookin' out nowhere\nWhere's home on this hidden earth?\nPain in my eyes, in the time I find, I'm stronger than I ever was\nHere we go again, God, shine your love on me, save me, please\n\nHmm-mm-mm, woah, woah\nStay strong\nHmm-mm-mm, woah, woah\nStay strong\nHmm-mm-mm, woah, woah\nSave me, Lord\nHmm-mm-mm, woah, woah\nStay strong\nHmm-mm-mm, woah, woah\nSave me, Lord\nHmm-mm-mm, woah, woah\nStay strong\nHmm-mm-mm, woah, woah\nSave me, Lord\nHmm-mm-mm, woah, woah\n\nEverybody want world peace\n'Til your niece get shot in the dome-piece\nThen you go and buy your own piece\nHopin' it'll help you find your own peace\nBring light to what they don't see\nAuntie cryin' on the concrete\nTalkin' to dispatcher then the phone beep\nOn the other line was the homies\nTold her that you ain't comin' home, see\nWhen she heard the news it hurt her bone-deep\nCaught with the rifle with the long reach\nJust another cycle of the lonely\nAll growin' up in environment\nWhere doin' crime the requirement\nThey send us off to prison for retirement\nHopefully Alice Johnson will inspire men\n\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nSave me, Lord\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nSave me, Lord\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nSave me, Lord\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nLord shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\n\nBoth sides lose somebody\nHmm-mm-mm, woah, woah\nSave me, Lord\nSomebody dies, somebody goes to jail\nHmm-mm-mm, woah, woah\nStay strong\nLight on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nLord, shine your light on me, save me, please\nHmm-mm-mm, woah, woah\nStay strong\nShine your light on me, save me, please\nHmm-mm-mm, woah, woah\nSave me, Lord\nShine your light on me\nHmm-mm-mm, woah, woah\nStay strong",
+      "id": 22
+    },
+    {
+      "artist": "Nails",
+      "track": "Life Is A Death Sentence",
+      "album": "You Will Never Be One Of Us",
+      "art": "https://lastfm.freetls.fastly.net/i/u/300x300/af71ba7a4a3a075192e789fcd224e09d.png",
+      "lyrics": "Born guilty into this prison\nThey won't be forgiven\n\nConsumed with vengeance\nLife is a death sentence\n\nTormented screams come from the shadows\nTorn from the womb, placed in the gallows\n\nGuilty, sentenced to death\n\nVerdict reached, judgement passed\nRope around the neck, sentenced to death\nNo mercy, I won't make it quick\nLeave you in a shallow ditch\n\nThey will not be forgiven",
+      "id": 23
+    },
+    {
+      "artist": "Pixies",
+      "track": "Bone Machine",
+      "album": "Surfer Rosa",
+      "art": "https://lastfm.freetls.fastly.net/i/u/300x300/7a0af4bf09044557ac7bbb916eee1fc0.png",
+      "lyrics": "(This is a song for Carol!)\n\nYou're into Japanese fast food, and I dropped you off with your Japanese lover\nAnd you're going to the beach all day\nYou're so pretty when you're unfaithful to me\nYou're so pretty when you're unfaithful to me\n\nOh, you're looking like you got some sun\nYour blistered lips have got a kiss\nThat taste a bit like everyone\n\nYour bone's got a little machine\nYou're the bone machine\n\nI was talking to preachy-preach about kissy-kiss\nHe bought me a soda\nHe bought me a soda\nHe bought me a soda and he tried to molest me in the parking lot\nYep, yep, yep, yep!\n\nI'll make you pray, you make me hard\nYour island skin looks Mexican\nOur love is rice and beans and horse's lard\n\nYour bone's got a little machine\nYou're the bone machine\n\nYour bone's got a little machine",
+      "id": 24
     }
   ]
 }
